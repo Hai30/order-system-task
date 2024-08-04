@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Visual Studio
+.vscode/
+.vs/
+*.exe
+*.user
+*.userosscache
+*.suo
+*.tmp
+*.csproj.user
+
+# .NET
+bin/
+obj/
+
+# React
+build/
